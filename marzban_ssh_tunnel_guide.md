@@ -156,6 +156,11 @@ sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/
 - Устанавливается Marzban в Docker контейнере
 - Запускается служба автоматически
 
+### Включаем автозапуск Marzban при загрузке системы
+```bash
+sudo systemctl enable docker
+```
+
 ### Шаг 3: Остановка после установки
 
 ```bash
