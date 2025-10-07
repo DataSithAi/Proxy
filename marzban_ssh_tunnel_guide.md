@@ -717,6 +717,8 @@ Public key: 7vCwRJ_2sB8JmzY-K5P7ZxQpS3hN6Vt4Rl9F_Ab5678
 a1b2c3d4e5f67890
 ```
 
+P.S. Принцип работы **VLESS REALITY Protocol** смотри  [здесь](https://github.com/DataSithAi/Proxy/blob/main/vless_reality_full_guide.md)👀
+
 #### 4️⃣ Вставка ключей в конфигурацию
 
 В блоке **VLESS TCP REALITY** замените:
